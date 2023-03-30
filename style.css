@@ -1,0 +1,85 @@
+body{
+    background-color:#eee;
+    text-align: center;
+    background-image: url("https://www.transparenttextures.com/patterns/p2.png");
+}
+
+.person{
+    display: inline-block;
+    margin: 2% 3%;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+}
+
+input{
+    height:auto;
+    width: 220px;
+    max-width: auto;
+    margin: 10px 10px;
+    border-radius: 10px;
+    background-color:white;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+    font-size: 2rem;
+    text-align: center;
+    box-shadow: (1,1,2,1 #455d7a);
+}
+
+p{
+    color:#455d7a;
+    margin: 20px ;
+    
+}
+
+h1{
+    font-size: 4rem;
+    color: #fa0328;
+    font-family: 'Merienda', cursive;
+    margin:  10px auto;
+    padding-top: 5px;
+    text-shadow: 4px 0 #d1dbe7;
+}
+
+h2{
+    color: #9c157b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.result{
+    font-size: 5rem;
+    color:rgb(113, 129, 185);
+    font-family: 'Itim', cursive;
+}
+
+img{
+    width: 10%;
+}
+
+.one{
+    margin-top: 20px;
+    width: 20%; 
+    border-radius: 45%;
+    
+}
+
+h4{
+    visibility: hidden;
+    margin-top: 10px;
+}
+
+.hidden{
+   visibility: visible;
+   font-size: 4rem;
+   font-family: 'Pacifico';
+   color: #96387e;
+   margin-top: 0;
+}
+
+
+.userNames{
+    color:#853d3d;
+    font-size: 3rem;
+    font-family: 'Abril Fatface', cursive;
+    text-transform: capitalize;
+}
+
