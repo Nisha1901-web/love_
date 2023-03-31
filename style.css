@@ -14,12 +14,11 @@ body{
 input{
     height:auto;
     width: 220px;
-    max-width: auto;
     margin: 10px 10px;
     border-radius: 10px;
+    color:#fa9118;
     background-color:white;
     font-family: "McLaren", cursive;
-    font-weight: 200;
     font-size: 2rem;
     text-align: center;
     box-shadow: (1,1,2,1 #455d7a);
@@ -27,7 +26,7 @@ input{
 
 p{
     color:#455d7a;
-    margin: 20px ;
+    margin: 15px ;
     
 }
 
@@ -36,7 +35,7 @@ h1{
     color: #fa0328;
     font-family: 'Merienda', cursive;
     margin:  10px auto;
-    padding-top: 5px;
+    padding-top: 15px;
     text-shadow: 4px 0 #d1dbe7;
 }
 
@@ -49,6 +48,7 @@ h2{
     font-size: 5rem;
     color:rgb(113, 129, 185);
     font-family: 'Itim', cursive;
+    padding-top: 0;
 }
 
 img{
@@ -70,7 +70,7 @@ h4{
 .hidden{
    visibility: visible;
    font-size: 4rem;
-   font-family: 'Pacifico';
+   font-family: "McLaren", cursive;
    color: #96387e;
    margin-top: 0;
 }
@@ -78,7 +78,7 @@ h4{
 
 .userNames{
     color:#853d3d;
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: 'Abril Fatface', cursive;
     text-transform: capitalize;
 }
